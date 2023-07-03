@@ -1,0 +1,37 @@
+[
+  {
+    "playerOne": "sziszka",
+    "playerTwo": "belus",
+    "gameWinner": "belus"
+  },
+  {
+    "playerOne": "sziszka",
+    "playerTwo": "tomi",
+    "gameWinner": "sziszka"
+  },
+  {
+    "playerOne": "Szili",
+    "playerTwo": "Marko",
+    "gameWinner": "Szili"
+  },
+  {
+    "playerOne": "Niki",
+    "playerTwo": "Dori",
+    "gameWinner": "Dori"
+  },
+  {
+    "playerOne": "Sari",
+    "playerTwo": "Piroska",
+    "gameWinner": "Piroska"
+  },
+  {
+    "playerOne": "Andras",
+    "playerTwo": "Mark",
+    "gameWinner": "Andras"
+  },
+  {
+    "playerOne": "Szili",
+    "playerTwo": "Bandi",
+    "gameWinner": "Szili"
+  }
+]
